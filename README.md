@@ -7,9 +7,9 @@
 ## 📦 APK Download
 
 Try it yourself and I’d love to hear your feedback 🙂:
-
+- [click](https://drive.google.com/file/d/1-0GTvhQ3F_mQTCTRAnVPWGSWhLZI-mo7/view?usp=sharing)
 - [Click here to Download APK](https://drive.google.com/file/d/1-0GTvhQ3F_mQTCTRAnVPWGSWhLZI-mo7/view?usp=sharing)
-[click](https://drive.google.com/file/d/1-0GTvhQ3F_mQTCTRAnVPWGSWhLZI-mo7/view?usp=sharing)
+
 ---
 
 

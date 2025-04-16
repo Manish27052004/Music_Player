@@ -1,7 +1,5 @@
 # MusicPlayer
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)  ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
-
 **A Simple Yet Feature-Rich Music Player Application based on Native MediaPlayer.**
 
 ---
@@ -14,22 +12,7 @@ Try it yourself and I’d love to hear your feedback 🙂:
 
 ---
 
-## 📸 Screenshots
 
-**Actual app looks even better! 😃**
-
-<kbd>
-  <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_2.png" width=30% height=30%/>
-  <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_7.png" width=30% height=30%/>
-  <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_5.png" width=30% height=30%/>
-  <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_1.png" width=30% height=30%/>
-  <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_8.png" width=30% height=30%/>
-  <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_6.png" width=30% height=30%/>
-  <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_3.png" width=30% height=30%/>
-  <img src="https://github.com/HarshAndroid/MusicPlayer/blob/master/music_player_screenshots/screen_4.png" width=30% height=30%/>
-</kbd>
-
----
 
 ## ✨ Features
 
@@ -50,20 +33,5 @@ Try it yourself and I’d love to hear your feedback 🙂:
 
 ---
 
-## 🎥 YouTube Course
 
-Watch the full YouTube playlist:  
-[Watch on YouTube](https://youtube.com/playlist?list=PL8kbUJtS6hyaRM3LhIYOqIXK7LIoEJ4Qf)
 
----
-
-## 💡 Note
-
-This project is much more improved and optimized than the YouTube course project, with new features and better performance.
-
----
-
-## 💬 Feedback and Suggestions
-
-For any feedback or suggestions, feel free to contact me via email:  
-📧 [rajpurohitharsh2020@gmail.com](mailto:rajpurohitharsh2020@gmail.com)

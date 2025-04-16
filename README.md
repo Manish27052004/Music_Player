@@ -8,7 +8,7 @@
 
 Try it yourself and I’d love to hear your feedback 🙂:
 
-- [Click here to Download APK](https://drive.google.com/file/d/1hYdiJKIT2addpMRzU2VgV_dcdxQaXgvC/view?usp=drive_link)
+- [Click here to Download APK](https://drive.google.com/file/d/1-0GTvhQ3F_mQTCTRAnVPWGSWhLZI-mo7/view?usp=sharing)
 
 ---
 
